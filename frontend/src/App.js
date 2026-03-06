@@ -1,11 +1,11 @@
-import ProductsPage from "./pages/ProductsPage/ProductsPage";
+import UsersPage from "./pages/UsersPage/UsersPage";
 
 function App() {
-  return (
-    <div className="App">
-      <ProductsPage />
-    </div>
-  );
+    return (
+        <div className="App">
+            <UsersPage />
+        </div>
+    );
 }
 
 export default App;
